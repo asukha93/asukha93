@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Ashmi! Cybersecurity Professional </h1>
+<h1>Hi, I'm Ashmi! IT Professional </h1>
 
 <h2>👨‍💻 Cyberysecurity Projects:</h2>
 
