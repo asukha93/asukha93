@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>Hi, I'm Ashmi! IT Professional </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
