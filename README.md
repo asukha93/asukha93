@@ -7,8 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/asukha93/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/asukha93/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Create a Virtual Machine and Deploy a Web Server](https://github.com/asukha93/Azure-Virtual-Machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/asukha93/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/asukha93/azure-network-protocols)
+  
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
