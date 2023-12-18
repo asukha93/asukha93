@@ -16,7 +16,7 @@
 
 - <b>Azure / Cloud Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/asukha93/Cloud-SOC)
-  - [Azure Vulernability Management with OpenVAS](https://github.com/asukha93/OpenVAS)
+  - [Azure Vulnerability Management with OpenVAS](https://github.com/asukha93/OpenVAS)
 
 <h2> 🤳 Connect with me:</h2>
 
